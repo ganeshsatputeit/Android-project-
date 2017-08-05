@@ -1,2 +1,2 @@
 # Android-project-
-Developed a Project a Calculator  Application in Android   
+This project is simple Calculator Android Application by using by Android studio.   
